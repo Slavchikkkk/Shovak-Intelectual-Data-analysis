@@ -3,3 +3,4 @@
  Group: FB-31mp  
  Dataset lab 1 link:  https://www.kaggle.com/datasets/fedesoriano/body-fat-prediction-dataset/data  
  Dataset lab 2 link:  https://www.kaggle.com/datasets/ruchi798/source-based-news-classification/data
+ Dataset lab 3 link:  https://www.kaggle.com/datasets/samuelcortinhas/sports-balls-multiclass-image-classification
